@@ -1,0 +1,172 @@
+﻿Month;Transaction Number;Product Code;Product Description;Store Cost;Sale Price;Profit;Commision 10%;Sales Person;Sale Location
+Jan;1,001;9822;Pool Cover;58.3;98.4;;;Chalie Barns;NM
+Jan;1,002;2877;Net;11.4;16.3;;;Juan Hernandez;CA
+Jan;1,003;2499;8 ft Hose;6.2;9.2;;;Doug Smith;AZ
+Jan;1,004;8722;Water Pump;344;502;;;Chalie Barns;AZ
+Jan;1,005;1109;Chlorine Test Kit;3;8;;;Doug Smith;AZ
+Jan;1,006;9822;Pool Cover;58.3;98.4;;;Doug Smith;AZ
+Jan;1,007;1109;Chlorine Test Kit;3;8;;;Hellen Johnson;NM
+Jan;1,008;2877;Net;11.4;16.3;;;Doug Smith;NM
+Jan;1,009;1109;Chlorine Test Kit;3;8;;;Doug Smith;AZ
+Jan;1,010;2877;Net;11.4;16.3;;;Juan Hernandez;CO
+Jan;1,011;2877;Net;11.4;16.3;;;Juan Hernandez;AZ
+Jan;1,012;4421;Skimmer;45;87;;;Doug Smith;NM
+Jan;1,013;9212;1 Gal Muratic Acid;4;7;;;Hellen Johnson;CO
+Jan;1,014;8722;Water Pump;344;502;;;Chalie Barns;CA
+Jan;1,015;2877;Net;11.4;16.3;;;Hellen Johnson;AZ
+Jan;1,016;2499;8 ft Hose;6.2;9.2;;;Doug Smith;CA
+Feb;1,017;2242;AutoVac;60;124;;;Juan Hernandez;NM
+Feb;1,018;1109;Chlorine Test Kit;3;8;;;Doug Smith;CA
+Feb;1,019;2499;8 ft Hose;6.2;9.2;;;Doug Smith;CO
+Feb;1,020;2499;8 ft Hose;6.2;9.2;;;Doug Smith;NV
+Feb;1,021;1109;Chlorine Test Kit;3;8;;;Juan Hernandez;CO
+Feb;1,022;2877;Net;11.4;16.3;;;Doug Smith;UT
+Feb;1,023;1109;Chlorine Test Kit;3;8;;;Hellen Johnson;NM
+Feb;1,024;9212;1 Gal Muratic Acid;4;7;;;Juan Hernandez;UT
+Feb;1,025;2877;Net;11.4;16.3;;;Hellen Johnson;NV
+Feb;1,026;6119;Algea Killer 8 oz;9;14;;;Hellen Johnson;NM
+Feb;1,027;6119;Algea Killer 8 oz;9;14;;;Chalie Barns;NV
+Feb;1,028;8722;Water Pump;344;502;;;Chalie Barns;AZ
+Feb;1,029;2499;8 ft Hose;6.2;9.2;;;Juan Hernandez;AZ
+Feb;1,030;4421;Skimmer;45;87;;;Juan Hernandez;NV
+Feb;1,031;1109;Chlorine Test Kit;3;8;;;Juan Hernandez;CA
+Feb;1,032;2877;Net;11.4;16.3;;;Chalie Barns;AZ
+Feb;1,033;9822;Pool Cover;58.3;98.4;;;Juan Hernandez;CA
+Feb;1,034;2877;Net;11.4;16.3;;;Juan Hernandez;CO
+Mar;1,035;2499;8 ft Hose;6.2;9.2;;;Hellen Johnson;CA
+Mar;1,036;2499;8 ft Hose;6.2;9.2;;;Juan Hernandez;NV
+Mar;1,037;6622;5 Gal Chlorine;42;77;;;Juan Hernandez;NV
+Mar;1,038;2499;8 ft Hose;6.2;9.2;;;Juan Hernandez;NV
+Mar;1,039;2877;Net;11.4;16.3;;;Juan Hernandez;CA
+Mar;1,040;1109;Chlorine Test Kit;3;8;;;Juan Hernandez;AZ
+Mar;1,041;2499;8 ft Hose;6.2;9.2;;;Chalie Barns;NM
+Mar;1,042;8722;Water Pump;344;502;;;Doug Smith;NM
+Mar;1,043;2242;AutoVac;60;124;;;Doug Smith;CA
+Mar;1,044;2877;Net;11.4;16.3;;;Doug Smith;CA
+Mar;1,045;8722;Water Pump;344;502;;;Hellen Johnson;AZ
+Mar;1,046;6119;Algea Killer 8 oz;9;14;;;Juan Hernandez;UT
+Mar;1,047;6622;5 Gal Chlorine;42;77;;;Hellen Johnson;AZ
+Mar;1,048;8722;Water Pump;344;502;;;Chalie Barns;AZ
+April;1,049;2499;8 ft Hose;6.2;9.2;;;Chalie Barns;CO
+April;1,050;2877;Net;11.4;16.3;;;Chalie Barns;AZ
+April;1,051;6119;Algea Killer 8 oz;9;14;;;Doug Smith;UT
+April;1,052;6622;5 Gal Chlorine;42;77;;;Doug Smith;AZ
+April;1,053;2242;AutoVac;60;124;;;Chalie Barns;CA
+April;1,054;4421;Skimmer;45;87;;;Doug Smith;NV
+April;1,055;6119;Algea Killer 8 oz;9;14;;;Juan Hernandez;NV
+April;1,056;1109;Chlorine Test Kit;3;8;;;Doug Smith;CA
+April;1,057;2499;8 ft Hose;6.2;9.2;;;Juan Hernandez;CA
+April;1,058;6119;Algea Killer 8 oz;9;14;;;Hellen Johnson;AZ
+April;1,059;2242;AutoVac;60;124;;;Doug Smith;AZ
+April;1,060;6119;Algea Killer 8 oz;9;14;;;Doug Smith;NV
+May;1,061;1109;Chlorine Test Kit;3;8;;;Doug Smith;NV
+May;1,062;2499;8 ft Hose;6.2;9.2;;;Chalie Barns;AZ
+May;1,063;1109;Chlorine Test Kit;3;8;;;Doug Smith;CA
+May;1,064;2499;8 ft Hose;6.2;9.2;;;Hellen Johnson;AZ
+May;1,065;2499;8 ft Hose;6.2;9.2;;;Doug Smith;NM
+May;1,066;2877;Net;11.4;16.3;;;Doug Smith;NV
+May;1,067;2877;Net;11.4;16.3;;;Doug Smith;UT
+May;1,068;6119;Algea Killer 8 oz;9;14;;;Juan Hernandez;CA
+May;1,069;1109;Chlorine Test Kit;3;8;;;Doug Smith;AZ
+May;1,070;2499;8 ft Hose;6.2;9.2;;;Hellen Johnson;AZ
+May;1,071;1109;Chlorine Test Kit;3;8;;;Chalie Barns;AZ
+May;1,072;1109;Chlorine Test Kit;3;8;;;Doug Smith;NV
+May;1,073;6622;5 Gal Chlorine;42;77;;;Doug Smith;CA
+May;1,074;2877;Net;11.4;16.3;;;Doug Smith;AZ
+May;1,075;1109;Chlorine Test Kit;3;8;;;Hellen Johnson;CA
+May;1,076;1109;Chlorine Test Kit;3;8;;;Juan Hernandez;AZ
+May;1,077;9822;Pool Cover;58.3;98.4;;;Hellen Johnson;AZ
+May;1,078;2877;Net;11.4;16.3;;;Juan Hernandez;NV
+June;1,079;2877;Net;11.4;16.3;;;Juan Hernandez;NM
+June;1,080;4421;Skimmer;45;87;;;Doug Smith;CA
+June;1,081;6119;Algea Killer 8 oz;9;14;;;Doug Smith;UT
+June;1,082;1109;Chlorine Test Kit;3;8;;;Chalie Barns;CA
+June;1,083;1109;Chlorine Test Kit;3;8;;;Chalie Barns;NV
+June;1,084;6119;Algea Killer 8 oz;9;14;;;Chalie Barns;AZ
+June;1,085;9822;Pool Cover;58.3;98.4;;;Doug Smith;NV
+June;1,086;1109;Chlorine Test Kit;3;8;;;Hellen Johnson;AZ
+June;1,087;2499;8 ft Hose;6.2;9.2;;;Chalie Barns;CA
+June;1,088;2499;8 ft Hose;6.2;9.2;;;Chalie Barns;NM
+June;1,089;6119;Algea Killer 8 oz;9;14;;;Doug Smith;NV
+June;1,090;2877;Net;11.4;16.3;;;Chalie Barns;CA
+June;1,091;2877;Net;11.4;16.3;;;Hellen Johnson;NV
+June;1,092;2877;Net;11.4;16.3;;;Doug Smith;CA
+June;1,093;6119;Algea Killer 8 oz;9;14;;;Juan Hernandez;AZ
+June;1,094;6119;Algea Killer 8 oz;9;14;;;Doug Smith;CA
+June;1,095;2499;8 ft Hose;6.2;9.2;;;Hellen Johnson;AZ
+June;1,096;6119;Algea Killer 8 oz;9;14;;;Doug Smith;AZ
+June;1,097;9212;1 Gal Muratic Acid;4;7;;;Hellen Johnson;NV
+June;1,098;2877;Net;11.4;16.3;;;Juan Hernandez;NM
+July;1,099;2877;Net;11.4;16.3;;;Doug Smith;CA
+July;1,100;6119;Algea Killer 8 oz;9;14;;;Chalie Barns;UT
+July;1,101;2499;8 ft Hose;6.2;9.2;;;Doug Smith;CA
+July;1,102;2242;AutoVac;60;124;;;Juan Hernandez;NV
+July;1,103;2877;Net;11.4;16.3;;;Juan Hernandez;AZ
+July;1,104;2877;Net;11.4;16.3;;;Doug Smith;NV
+July;1,105;2499;8 ft Hose;6.2;9.2;;;Juan Hernandez;AZ
+July;1,106;9822;Pool Cover;58.3;98.4;;;Juan Hernandez;CA
+July;1,107;1109;Chlorine Test Kit;3;8;;;Hellen Johnson;NM
+July;1,108;9822;Pool Cover;58.3;98.4;;;Doug Smith;NV
+July;1,109;8722;Water Pump;344;502;;;Juan Hernandez;CA
+July;1,110;8722;Water Pump;344;502;;;Hellen Johnson;NV
+July;1,111;6622;5 Gal Chlorine;42;77;;;Hellen Johnson;CA
+July;1,112;6622;5 Gal Chlorine;42;77;;;Doug Smith;AZ
+July;1,113;9822;Pool Cover;58.3;98.4;;;Chalie Barns;CA
+July;1,114;2242;AutoVac;60;124;;;Juan Hernandez;AZ
+July;1,115;8722;Water Pump;344;502;;;Chalie Barns;AZ
+July;1,116;6622;5 Gal Chlorine;42;77;;;Doug Smith;NV
+July;1,117;8722;Water Pump;344;502;;;Hellen Johnson;NM
+July;1,118;9822;Pool Cover;58.3;98.4;;;Juan Hernandez;CA
+July;1,119;2242;AutoVac;60;124;;;Chalie Barns;UT
+July;1,120;2242;AutoVac;60;124;;;Doug Smith;CA
+July;1,121;4421;Skimmer;45;87;;;Doug Smith;NV
+July;1,122;8722;Water Pump;344;502;;;Doug Smith;AZ
+July;1,123;9822;Pool Cover;58.3;98.4;;;Doug Smith;NV
+July;1,124;4421;Skimmer;45;87;;;Doug Smith;AZ
+Aug;1,125;2242;AutoVac;60;124;;;Doug Smith;CA
+Aug;1,126;9212;1 Gal Muratic Acid;4;7;;;Doug Smith;NM
+Aug;1,127;8722;Water Pump;344;502;;;Chalie Barns;NV
+Aug;1,128;6622;5 Gal Chlorine;42;77;;;Juan Hernandez;CA
+Aug;1,129;9822;Pool Cover;58.3;98.4;;;Hellen Johnson;NV
+Aug;1,130;4421;Skimmer;45;87;;;Hellen Johnson;CA
+Aug;1,131;9212;1 Gal Muratic Acid;4;7;;;Hellen Johnson;AZ
+Aug;1,132;9212;1 Gal Muratic Acid;4;7;;;Hellen Johnson;CA
+Aug;1,133;9822;Pool Cover;58.3;98.4;;;Chalie Barns;AZ
+Aug;1,134;9822;Pool Cover;58.3;98.4;;;Doug Smith;AZ
+Aug;1,135;8722;Water Pump;344;502;;;Chalie Barns;NV
+Aug;1,136;2242;AutoVac;60;124;;;Doug Smith;NM
+Aug;1,137;9822;Pool Cover;58.3;98.4;;;Juan Hernandez;CA
+Aug;1,138;8722;Water Pump;344;502;;;Chalie Barns;UT
+Aug;1,139;4421;Skimmer;45;87;;;Doug Smith;CA
+Aug;1,140;4421;Skimmer;45;87;;;Juan Hernandez;NV
+Aug;1,141;9212;1 Gal Muratic Acid;4;7;;;Juan Hernandez;AZ
+Sept;1,142;2242;AutoVac;60;124;;;Juan Hernandez;NV
+Sept;1,143;9822;Pool Cover;58.3;98.4;;;Hellen Johnson;AZ
+Sept;1,144;2242;AutoVac;60;124;;;Hellen Johnson;CA
+Sept;1,145;4421;Skimmer;45;87;;;Hellen Johnson;NM
+Sept;1,146;8722;Water Pump;344;502;;;Hellen Johnson;NV
+Sept;1,147;9822;Pool Cover;58.3;98.4;;;Chalie Barns;CA
+Sept;1,148;9212;1 Gal Muratic Acid;4;7;;;Doug Smith;AZ
+Sept;1,149;8722;Water Pump;344;502;;;Chalie Barns;AZ
+Oct;1,150;2242;AutoVac;60;124;;;Doug Smith;UT
+Oct;1,151;2242;AutoVac;60;124;;;Juan Hernandez;CA
+Oct;1,152;4421;Skimmer;45;87;;;Chalie Barns;NV
+Oct;1,153;8722;Water Pump;344;502;;;Doug Smith;AZ
+Oct;1,154;9822;Pool Cover;58.3;98.4;;;Juan Hernandez;NV
+Oct;1,155;4421;Skimmer;45;87;;;Doug Smith;AZ
+Oct;1,156;2242;AutoVac;60;124;;;Doug Smith;CA
+Oct;1,157;9212;1 Gal Muratic Acid;4;7;;;Doug Smith;NM
+Nov;1,158;8722;Water Pump;344;502;;;Chalie Barns;NV
+Nov;1,159;6622;5 Gal Chlorine;42;77;;;Doug Smith;CA
+Nov;1,160;9822;Pool Cover;58.3;98.4;;;Hellen Johnson;NV
+Nov;1,161;4421;Skimmer;45;87;;;Juan Hernandez;CA
+Nov;1,162;9212;1 Gal Muratic Acid;4;7;;;Chalie Barns;AZ
+Nov;1,163;9212;1 Gal Muratic Acid;4;7;;;Doug Smith;CA
+Nov;1,164;9822;Pool Cover;58.3;98.4;;;Doug Smith;AZ
+Nov;1,165;9822;Pool Cover;58.3;98.4;;;Doug Smith;AZ
+Nov;1,166;8722;Water Pump;344;502;;;Doug Smith;NV
+Dec;1,167;2242;AutoVac;60;124;;;Doug Smith;NM
+Dec;1,168;9822;Pool Cover;58.3;98.4;;;Doug Smith;CA
+Dec;1,169;8722;Water Pump;344;502;;;Doug Smith;UT
+Dec;1,170;4421;Skimmer;45;87;;;Chalie Barns;CA
+Dec;1,171;4421;Skimmer;45;87;;;Juan Hernandez;NV
